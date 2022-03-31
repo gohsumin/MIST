@@ -1,4 +1,4 @@
 MIST
 ====
 
-The Mathematical Image Synthesis Toolkit
+The Mathematics of Images Synthesis Toolkit
